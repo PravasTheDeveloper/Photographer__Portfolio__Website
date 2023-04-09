@@ -25,9 +25,9 @@ function Gallary() {
               <div className="mb-4 lg:mb-0 h-48 w-full rounded-md">
               <img src="https://images.unsplash.com/photo-1627615275925-f597ef41988c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80" alt="" className="w-full h-full object-cover center duration-300 hover:ease-in rounded-lg" />
               </div>
-              <div className="h-48 w-full rounded-md">
+              {/* <div className="h-48 w-full rounded-md">
               <img src="https://images.unsplash.com/photo-1604152673192-ba4180a7d7e1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" alt="" className="w-full h-full object-cover center duration-300 hover:ease-in rounded-lg" />
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
